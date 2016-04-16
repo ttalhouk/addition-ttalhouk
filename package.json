@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ttalhouk/addition-ttalhouk/issues"
   },
-  "homepage": "https://github.com/ttalhouk/addition-ttalhouk#readme"
+  "homepage": "https://github.com/ttalhouk/addition-ttalhouk#readme",
+  "devDependencies": {
+    "tap": "^5.7.1"
+  }
 }
