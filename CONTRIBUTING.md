@@ -1,0 +1,3 @@
+-Fork the repo
+-Update the repo
+-Pull Request the repo
